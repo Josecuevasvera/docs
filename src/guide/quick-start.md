@@ -87,7 +87,7 @@ If you are unsure about an option, simply choose `No` by hitting enter for now. 
   ```sh-vue
   $ cd {{'<your-project-name>'}}
   $ npm install
-  $ npm run dev
+  $ npm run dev uwu
   ```
 
   </VTCodeGroupTab>
